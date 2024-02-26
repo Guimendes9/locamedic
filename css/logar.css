@@ -1,0 +1,28 @@
+@media (min-width: 992px) {
+    body {
+        overflow: hidden;
+    }
+}
+@media (max-width: 991px) {
+    body {
+        overflow-x: hidden;
+    }
+}
+.titulo-login {
+    font-size: 25px;
+    background-color: #4F93BE; 
+}
+
+.titulo-login,
+.nome,
+.senha,
+.entrar,
+.footer {
+    font-family: 'Roboto', sans-serif;
+}
+label {
+    font-size: 18px;
+}
+a{
+    text-decoration: none;
+}
